@@ -1,0 +1,5 @@
+1. implement 2 stacks in one array
+2. implement 2 queues in one array
+3. implement code for sorting a linked list
+4. implement code to merge 2 sorted linked list
+5. implement polynomial addition using linked list
